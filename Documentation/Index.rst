@@ -30,7 +30,7 @@ Janas Test-Project
    Think of it as key-value pairs.
 
 
-:Writing here:    `My Name <my.name@gmail.com>`__
+:Writing here:    `Jana Kienast <jana.kienast@typo3.org>`__
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
 
