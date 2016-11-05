@@ -22,7 +22,7 @@
 
 
 ======================
-JanasTest-Project
+Janas Test-Project
 ======================
 
 
